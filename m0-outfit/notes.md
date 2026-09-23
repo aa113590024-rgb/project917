@@ -6,5 +6,7 @@
 - 人類消失後，你的城市裡哪一種建材最先崩壞、哪一種撐最久？這會留下什麼樣的棲地？木材最先腐敗、塑膠撐最久、不透氣充滿塑膠的環境
 - ＃三個世界候選，每個一句話，各附一個你追到原始出處的事實與連結:
 1. 充滿塑膠的世界，皆為塑膠微粒，因此其實色彩豐富，生物要看起來很乾燥、粗糙。
-2. 空氣充滿毒性物質，因此空氣並不是清澈透明，環境主體與現在並無太大改變，生物則是透明像是能適應各種環境的水狀生物感。
+2. 空氣清澈透明，環境充滿水，生物則是透明像是能適應各種環境的水狀生物感。
 3. 樹木與自然的基本顏色不再是綠色，而是因為各種物質化學作用，變成繽紛色彩，生物亦是亮麗的顏色。
+#https://www.sciencefocus.com/planet-earth/after-humanity-a-timeline-of-the-earth-after-we-go-extinct
+#https://theconversation.com/if-humans-went-extinct-what-would-the-earth-look-like-one-year-later-199737
